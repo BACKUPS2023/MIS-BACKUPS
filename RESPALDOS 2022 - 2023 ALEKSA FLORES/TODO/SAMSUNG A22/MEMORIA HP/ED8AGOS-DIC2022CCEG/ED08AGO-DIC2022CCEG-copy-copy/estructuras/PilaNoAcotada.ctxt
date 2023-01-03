@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PilaNoAcotada
+comment0.text=\r\n\ Una\ pila\ no\ acotada\ es\ una\ pila\ donde\ unicamente\ se\ utilizan\ los\ metodos\ push\ y\ pop\ y\ no\ necesitamos\ el\ tope.\r\n\ \r\n\ @author\ (Castillo\ Cardenas\ Elia\ Guadalupe)\ \r\n\ @version\ (1.0\ Septiembre-2022)\r\n
+comment1.params=
+comment1.target=PilaNoAcotada()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PilaNoAcotada\r\n
+comment2.params=elemento
+comment2.target=void\ push(char)
+comment2.text=\r\n\ Metodo\ para\ insertar\ elemento\ en\ la\ pila\r\n\ \r\n\ @Elemento\ elemento\ a\ insertar\ en\ la\ pila\r\n\ @return\ \ Sin\ valor\ de\ retorno\ \r\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\r\n\ Es\ el\ metodo\ para\ eliminar\ un\ elemento\ de\ la\ pila\ regresa\ el\ valor\ que\ esta\ en\ el\ tope,si\ existe\r\n\ \r\n\ @Sin\ parametros\r\n\ @El\ ultimo\ elemento\ ingresado\ o\ lanza\ una\ exception\ si\ no\ hay\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=java.lang.Object\ top()
+numComments=6
